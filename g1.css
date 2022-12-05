@@ -1,0 +1,15 @@
+body{
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+div#main{
+  margin: 0 auto;
+  text-align: center;
+}
+canvas {
+  border: 1px solid gray;
+}
+p{
+  align-items: center;
+}
